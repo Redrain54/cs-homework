@@ -1,0 +1,7 @@
+C:\Users\ZHY\source\repos\HW2_b2\HW2_b2\bin\Debug\HW2_b2.exe.config
+C:\Users\ZHY\source\repos\HW2_b2\HW2_b2\bin\Debug\HW2_b2.exe
+C:\Users\ZHY\source\repos\HW2_b2\HW2_b2\bin\Debug\HW2_b2.pdb
+C:\Users\ZHY\source\repos\HW2_b2\HW2_b2\obj\Debug\HW2_b2.csprojAssemblyReference.cache
+C:\Users\ZHY\source\repos\HW2_b2\HW2_b2\obj\Debug\HW2_b2.csproj.CoreCompileInputs.cache
+C:\Users\ZHY\source\repos\HW2_b2\HW2_b2\obj\Debug\HW2_b2.exe
+C:\Users\ZHY\source\repos\HW2_b2\HW2_b2\obj\Debug\HW2_b2.pdb
