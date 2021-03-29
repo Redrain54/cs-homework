@@ -1,0 +1,7 @@
+C:\Users\ZHY\source\repos\HW3_c2\HW3_c2\bin\Debug\HW3_c2.exe.config
+C:\Users\ZHY\source\repos\HW3_c2\HW3_c2\bin\Debug\HW3_c2.exe
+C:\Users\ZHY\source\repos\HW3_c2\HW3_c2\bin\Debug\HW3_c2.pdb
+C:\Users\ZHY\source\repos\HW3_c2\HW3_c2\obj\Debug\HW3_c2.csprojAssemblyReference.cache
+C:\Users\ZHY\source\repos\HW3_c2\HW3_c2\obj\Debug\HW3_c2.csproj.CoreCompileInputs.cache
+C:\Users\ZHY\source\repos\HW3_c2\HW3_c2\obj\Debug\HW3_c2.exe
+C:\Users\ZHY\source\repos\HW3_c2\HW3_c2\obj\Debug\HW3_c2.pdb
