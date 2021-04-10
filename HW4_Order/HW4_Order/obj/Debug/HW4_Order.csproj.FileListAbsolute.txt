@@ -1,0 +1,7 @@
+C:\Csharp_HW\cs-homework\HW4_Order\HW4_Order\bin\Debug\HW4_Order.exe.config
+C:\Csharp_HW\cs-homework\HW4_Order\HW4_Order\bin\Debug\HW4_Order.exe
+C:\Csharp_HW\cs-homework\HW4_Order\HW4_Order\bin\Debug\HW4_Order.pdb
+C:\Csharp_HW\cs-homework\HW4_Order\HW4_Order\obj\Debug\HW4_Order.csprojAssemblyReference.cache
+C:\Csharp_HW\cs-homework\HW4_Order\HW4_Order\obj\Debug\HW4_Order.csproj.CoreCompileInputs.cache
+C:\Csharp_HW\cs-homework\HW4_Order\HW4_Order\obj\Debug\HW4_Order.exe
+C:\Csharp_HW\cs-homework\HW4_Order\HW4_Order\obj\Debug\HW4_Order.pdb
